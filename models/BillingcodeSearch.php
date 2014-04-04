@@ -1,14 +1,14 @@
 <?php
 
-namespace vendor\dinhtrung\project\models;
+namespace dinhtrung\project\models;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use vendor\dinhtrung\project\models\Billingcode;
+use dinhtrung\project\models\Billingcode;
 
 /**
- * BillingcodeSearch represents the model behind the search form about `vendor\dinhtrung\project\models\Billingcode`.
+ * BillingcodeSearch represents the model behind the search form about `dinhtrung\project\models\Billingcode`.
  */
 class BillingcodeSearch extends Model
 {

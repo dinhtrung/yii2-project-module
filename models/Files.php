@@ -1,6 +1,6 @@
 <?php
 
-namespace vendor\dinhtrung\project\models;
+namespace dinhtrung\project\models;
 
 /**
  * This is the model class for table "files".

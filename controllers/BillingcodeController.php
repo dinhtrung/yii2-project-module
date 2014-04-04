@@ -1,10 +1,10 @@
 <?php
 
-namespace vendor\dinhtrung\project\controllers;
+namespace dinhtrung\project\controllers;
 
 use Yii;
-use vendor\dinhtrung\project\models\Billingcode;
-use vendor\dinhtrung\project\models\BillingcodeSearch;
+use dinhtrung\project\models\Billingcode;
+use dinhtrung\project\models\BillingcodeSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\web\VerbFilter;

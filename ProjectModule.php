@@ -1,10 +1,10 @@
 <?php
 
-namespace vendor\dinhtrung\project;
+namespace dinhtrung\project;
 
 class ProjectModule extends \yii\base\Module
 {
-    public $controllerNamespace = 'vendor\dinhtrung\project\controllers';
+    public $controllerNamespace = 'dinhtrung\project\controllers';
 
     public function init()
     {
