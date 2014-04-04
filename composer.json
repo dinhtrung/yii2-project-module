@@ -1,8 +1,8 @@
 {
-	"name": "dinhtrung/yii2-projectManager",
+	"name": "dinhtrung/yii2-project-module",
 	"description": "A clone of dotProject on Yii Framework",
 	"keywords": ["yii", "module", "project", "dot project", "management"],
-	"homepage": "https://github.com/dinhtrung/yii2-projectManager",
+	"homepage": "https://github.com/dinhtrung/yii2-project-module",
 	"type": "yii2-module",
 	"license": "BSD-3-Clause",
 	"authors": [
